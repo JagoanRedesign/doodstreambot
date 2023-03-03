@@ -6,6 +6,7 @@
         "Doodstream",
         "shortner"
     ],
+"stack": "heroku-20",
     "website": "https://github.com/Amul-jat/Doodstreambot",
     "repository": "https://github.com/Amul-jat/Doodstreambot",
     "env": {
